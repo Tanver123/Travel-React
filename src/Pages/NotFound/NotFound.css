@@ -1,0 +1,19 @@
+.notfound {
+  text-align: center;
+  padding: 50px;
+}
+.home {
+  margin: 20px 0;
+}
+.back__button {
+  background-color: #f56565 !important;
+  text-transform: capitalize;
+  color: white !important;
+  border: none !important;
+  padding: 10 px 20 px !important;
+  border-radius: 20 px;
+  margin-bottom: 20 px;
+}
+.notfound img {
+  width: 100% !important;
+}

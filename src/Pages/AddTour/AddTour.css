@@ -1,0 +1,28 @@
+input {
+  border: 1px solid black;
+  padding: 8px !important;
+  width: 300px;
+}
+
+textarea.mb-3 {
+  border: 1px solid black;
+  width: 300px;
+  padding: 8px !important;
+}
+
+form.mx-auto.w-100 {
+  width: 50%;
+}
+
+.add-service {
+  text-align: center;
+}
+
+input[type="submit"] {
+  background: #f56565;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.primary__btn {
+  background-color: #f56565 !important;
+  color: white !important;
+  border: none !important;
+}
+
+.color__primary {
+  color: #f56565 !important;
+  font-size: 20px !important;
+  font-weight: 600;
+}

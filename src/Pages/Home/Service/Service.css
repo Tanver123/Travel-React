@@ -1,0 +1,26 @@
+.service__button {
+  background-color: #f56565;
+}
+.services__card {
+  box-shadow: 0 0 1.25rem rgb(108 118 134 / 10%);
+  padding: 10px 10px;
+  border-radius: 15px;
+
+  margin-bottom: 25px;
+  border: none;
+  color: black;
+}
+.card-title {
+  font-size: 26px;
+}
+
+.services__area p {
+  font-size: 18px;
+  color: #169fed;
+  font-weight: bold;
+}
+.services__area h2 {
+  font-weight: 600;
+  font-size: 30px;
+  font-weight: bold;
+}
